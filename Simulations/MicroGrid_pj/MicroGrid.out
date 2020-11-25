@@ -1,0 +1,21 @@
+->Created output file: D:\studyCourses\EMTP\MicroGrid_Simulations\Simulations\MicroGrid_pj\MicroGrid.out
+->Created output file: D:\studyCourses\EMTP\MicroGrid_Simulations\Simulations\MicroGrid_pj\MicroGrid.html
+->START Reading input data
+Circuit Diagram: Circuit.Diagram=MicroGrid.ecf
+Circuit date: 25/11/2020 22:07:29
+->END Reading input data
+->EMTP version 4.1.1 started
+->Simulation date: 20/11/25
+->Simulation time: 22:12:42.006
+Input Netlist file, EMTP format: D:\studyCourses\EMTP\MicroGrid_Simulations\Simulations\MicroGrid.net
+->Number of data lines: 1484
+->Start Load-Flow
+->Loaded previously calculated Load-Flow data<---
+->End Load-Flow
+
+->START simulation statistics
+
+->END simulation statistics
+EMTP terminated
+Date: 20/11/25
+Time: 22:12:42.015
