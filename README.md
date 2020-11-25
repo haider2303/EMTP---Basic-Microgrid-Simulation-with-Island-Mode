@@ -1,7 +1,10 @@
 # EMTP---Basic-Microgrid-Simulation-with-Island-Mode
 
 MAIN FILE: MicroGrid.ecf
+
 FolderName: Simulations
+
+Library: Install the .exe file in MicroGridLib folder in the location where EMTP-RV is present.
 
 
 This project contains the basic modeling of Microgrid in EMTP-RV. In order to run it, the Microgrid library must be installed in EMTP-RV.
